@@ -1,0 +1,105 @@
+body{
+  background: black;
+  font-size: 14px;
+}
+
+.Header{
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+.Brand-Logo{
+  padding: 2rem 0;
+}
+
+.Logo{
+  width: 171px;
+  z-index: 100;
+}
+
+.Social{
+  padding: 2rem;
+}
+
+.Social-icon{
+  color: white;
+  font-size: 2rem;
+  margin: .5rem
+}
+
+.Main{
+  display: flex;
+  flex-direction: row;
+}
+
+.Main-face{
+  height: 720px;
+  width: 200px;
+  box-sizing: border-box;
+  background: red;
+  cursor: pointer;
+}
+
+.face-1{
+  background: url(../img/IMG_3187.jpg);
+  background-size: cover;
+  background-position-x: -358px;
+}
+
+.face-2{
+  background: url(../img/IMG_3204.jpg);
+  background-size: cover;
+  background-position-x: -332px;
+}
+
+.face-3{
+  background: url(../img/IMG_3216.jpg);
+  background-size: cover;
+  background-position-x: -358px;
+}
+
+.face-4{
+  background: url(../img/IMG_3256.jpg);
+  background-size: cover;
+  background-position-x: -358px;
+}
+
+.face-5{
+  background: url(../img/IMG_3266.jpg);
+  background-size: cover;
+  background-position-x: -287px;
+}
+
+.face-6{
+  background: url(../img/IMG_3300.jpg);
+  background-size: cover;
+  background-position-x: -311px;
+}
+
+.face-7{
+  background: url(../img/IMG_3425.jpg);
+  background-size: cover;
+  background-position-x: -358px;
+}
+
+.Navbar{
+  text-align: center;
+}
+
+.Navbar-menu{
+  display: inline-block;
+}
+
+.Navbar-menu  li{
+  display: inline-block;
+  padding: 1rem;
+}
+
+
+.helper{
+  position: relative;
+  right: 0px;
+  width: 4510px;
+  background-position-x: 0;
+}

@@ -1,0 +1,15 @@
+{
+  "name": "demo-casa-grande",
+  "authors": [
+    "Ramon Chancay <ramon.chancay@gmail.com>"
+  ],
+  "description": "demo para la universidad casa grande",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "devDependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "fontawesome#~4.5.0"
+  }
+}
